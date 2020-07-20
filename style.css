@@ -26,23 +26,23 @@ a{
 /* section 1 */
 .section-1{
     padding-top: 40vh;
-    padding-left: 20vw;
+    padding-left: -50vw;
     text-align: center;
 }
 
 .section-1 p{
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     padding-bottom: 10px;
     margin:0;
 }
 
 .section-1 h2{
-    font-size: 1.7rem;
+    font-size: 2rem;
     margin-bottom: 10px;
 }
 
 .section-1 a{
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     padding: 10px;
 }
 /* section 2 */
@@ -57,7 +57,7 @@ a{
 }
 
 .section-2 p{
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     padding-bottom: 10px;
     margin:0;
 }
